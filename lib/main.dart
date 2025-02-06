@@ -30,7 +30,7 @@ class SplashScreen extends StatelessWidget {
     return Scaffold(
       body: Center(
         child: Text(
-          'Welcome to Har Din ', // Welcome text
+          'Welcome to HarDin Bachat ', // Welcome text
           style: TextStyle(
             fontSize: 24,
             fontWeight: FontWeight.bold,
